@@ -6,6 +6,8 @@
             <file>file:/D:/GitHub/document-generator-cnss/src/cnss/generator/picklightupdate/PicklightUpdateQueryGenerator.java</file>
             <file>file:/D:/GitHub/document-generator-cnss/src/cnss/generator/location/WallLocationGenerator.java</file>
             <file>file:/D:/GitHub/document-generator-cnss/src/cnss/generator/location/ConveyorLocationGenerator.java</file>
+            <file>file:/D:/GitHub/document-generator-cnss/src/cnss/generator/user/UserInsertQuery.java</file>
+            <file>file:/D:/GitHub/document-generator-cnss/src/cnss/generator/blockctl/BlockCtlQuery.java</file>
         </group>
     </open-files>
 </project-private>

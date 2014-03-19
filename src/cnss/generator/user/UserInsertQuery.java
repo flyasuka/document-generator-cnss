@@ -27,7 +27,6 @@ public class UserInsertQuery
     FileOutputStream out = new FileOutputStream("D:\\temp\\userupdate\\UserUpdateQuery.txt");
     for (int i = 1; i <= 126; i++)
     {
-
       String wall = "W" + String.format("%03d", i);
       StringBuilder sb = new StringBuilder();
       sb.append("INSERT INTO inther_lc.ilc_person(\n"
