@@ -66,7 +66,7 @@ public class PicklightUpdateQueryGenerator
             out.write(sb.toString().getBytes());
           }
         }
-        catch (StringIndexOutOfBoundsException ex)
+        catch (StringIndexOutOfBoundsException | NumberFormatException ex)
         {
           out.write(("\r\n----No address in  " + file + "----\r\n").getBytes());
         }

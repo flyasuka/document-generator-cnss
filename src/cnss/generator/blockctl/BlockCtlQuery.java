@@ -23,7 +23,7 @@ public class BlockCtlQuery
     };
     StringBuilder sb = new StringBuilder();
     sb.append("update inther_lc.ctl_controller set hostname =")
-            .append("null")
+            .append("'10.0.0.8'")
             .append(" where ");
     int i = 1;
     for (String wall : walls)
