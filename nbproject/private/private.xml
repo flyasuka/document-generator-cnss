@@ -8,6 +8,7 @@
             <file>file:/D:/GitHub/document-generator-cnss/src/cnss/generator/location/ConveyorLocationGenerator.java</file>
             <file>file:/D:/GitHub/document-generator-cnss/src/cnss/generator/user/UserInsertQuery.java</file>
             <file>file:/D:/GitHub/document-generator-cnss/src/cnss/generator/blockctl/BlockCtlQuery.java</file>
+            <file>file:/D:/GitHub/document-generator-cnss/src/cnss/generator/user/AutoLogonQuery.java</file>
         </group>
     </open-files>
 </project-private>
