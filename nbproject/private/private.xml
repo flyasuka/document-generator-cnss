@@ -10,5 +10,10 @@
             <file>file:/D:/GitHub/document-generator-cnss/src/cnss/generator/blockctl/BlockCtlQuery.java</file>
             <file>file:/D:/GitHub/document-generator-cnss/src/cnss/generator/user/AutoLogonQuery.java</file>
         </group>
+        <group name="document-generator-cnss">
+            <file>file:/D:/GitHub/document-generator-cnss/src/cnss/generator/location/WallLocationGenerator.java</file>
+            <file>file:/D:/GitHub/document-generator-cnss/src/cnss/generator/user/UserInsertQuery.java</file>
+        </group>
+        <group name="inther-xinjia-yili-dev"/>
     </open-files>
 </project-private>
